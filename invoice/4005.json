@@ -1,0 +1,27 @@
+{
+  "contratado": "JOSUE FERREIRA",
+  "contratante": "PANIFICADORA PADRE LIBÉRIO LTDA",
+  "cpf_cnpj_contratante": "71.360.952/0001-64",
+  "chave_pix": "pix@jzmrsh.com",
+  "nome_beneficiario": "JOSUE FERREIRA",
+  "cidade_beneficiario": "NOVA SERRANA",
+  "produtos": [
+    {
+      "nome": "Configuração da conta do Sistema de Vendas",
+      "quantidade": 1,
+      "preco_unitario": 75.00
+    },
+    {
+      "nome": "Cadastro de clientes",
+      "quantidade": 125,
+      "preco_unitario": 2.75
+    },
+    {
+      "nome": "Cadastro de produtos",
+      "quantidade": 727,
+      "preco_unitario": 3.00
+    }
+  ],
+  "desconto_percentual": 15,
+  "observacoes": "Suporte técnico incluso por 30 dias após a entrega."
+}
