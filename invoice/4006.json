@@ -9,7 +9,7 @@
     {
       "nome": "Cadastro de usuários",
       "quantidade": 13,
-      "preco_unitario": 40.00
+      "preco_unitario": 25.00
     },
     {
       "nome": "Cadastro de clientes",
@@ -24,7 +24,7 @@
     {
       "nome": "Reajuste de preço em produtos",
       "quantidade": 9,
-      "preco_unitario": 2.00
+      "preco_unitario": 1.90
     }
   ],
   "desconto_percentual": 15,
