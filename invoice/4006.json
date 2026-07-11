@@ -23,8 +23,8 @@
     },
     {
       "nome": "Reajuste de preço em produtos",
-      "quantidade": 9,
-      "preco_unitario": 1.90
+      "quantidade": 10,
+      "preco_unitario": 2.00
     }
   ],
   "desconto_percentual": 0,
