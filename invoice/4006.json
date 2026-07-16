@@ -18,12 +18,12 @@
     },
     {
       "nome": "Cadastro de produtos",
-      "quantidade": 5,
+      "quantidade": 6,
       "preco_unitario": 3.00
     },
     {
       "nome": "Reajuste em produtos",
-      "quantidade": 12,
+      "quantidade": 11,
       "preco_unitario": 2.00
     }
   ],
