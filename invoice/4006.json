@@ -25,6 +25,11 @@
       "nome": "Reajuste em produtos",
       "quantidade": 11,
       "preco_unitario": 2.00
+    },
+    {
+      "nome": "Reajuste em produtos - Fotos",
+      "quantidade": 33,
+      "preco_unitario": 0.00
     }
   ],
   "desconto_percentual": 0,
